@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋
+</h1> 
+<p align='center'>
+  We're software developer from Kastamonu, Turkey.
+ 
+- 🔭 I’m currently working on my doctoral thesis about software testing tools
+- 💬 Ask us about everything
+- 📫 How to reach us: 
+- ⚡ <a href="mailto:sevdanurgenc@gmail.com">sevdanurgenc@gmail.com</a>
+- ⚡ MeetUp profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a>  
+- ⚡ GDG Community profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a>  
+- ⚡ Twitter profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a>  
+- ⚡ LinkedIn profile <a href="https://www.linkedin.com/in/gdg-kastamonu/" target="_blank">https://www.linkedin.com/in/gdg-kastamonu/</a>  
+- ⚡ Instagram profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a>  
 
-<!--
-**gdgkastamonu/gdgkastamonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </p> 
