@@ -6,7 +6,7 @@
  
 - 🔭 We're currently working on GDG Kastamonu about software development tools
 - 💬 Ask us about everything
-- 📫 How to reach us: <a href="mailto:gdgkastamonu@gmail.com">gdgkastamonu@gmail.com</a>
+- 📫 How to reach us : <a href="mailto:gdgkastamonu@gmail.com">gdgkastamonu@gmail.com</a>
 - ⚡ YouTube profile <a href="https://www.youtube.com/channel/UCkdOFBi351HQrYgxT0HW8vg" target="_blank">https://www.youtube.com/channel/UCkdOFBi351HQrYgxT0HW8vg</a>  
 - ⚡ MeetUp profile <a href="https://www.meetup.com/tr-TR/GDG-Kastamonu/" target="_blank">https://www.meetup.com/tr-TR/GDG-Kastamonu/</a>  
 - ⚡ GDG Community profile <a href="https://gdg.community.dev/gdg-kastamonu/" target="_blank">https://gdg.community.dev/gdg-kastamonu/</a>  
