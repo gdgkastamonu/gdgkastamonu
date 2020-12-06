@@ -4,7 +4,7 @@
 <p align='center'>
   We're software developer from Kastamonu, Turkey.
  
-- 🔭 I’m currently working on my doctoral thesis about software testing tools
+- 🔭 We're currently working on GDG Kastamonu about software development tools
 - 💬 Ask us about everything
 - 📫 How to reach us: 
 - ⚡ <a href="mailto:gdgkastamonu@gmail.com">gdgkastamonu@gmail.com</a>
